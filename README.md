@@ -1,4 +1,4 @@
-# chatgpt-mirror-site-zh-summary 2024 最新国内可用的 ChatGPT中文版、ChatGPT镜像网站入口汇总
+# 2024 最新国内可用的 ChatGPT中文版、ChatGPT镜像网站入口汇总
 
 给大家整理了一些国内中文版的可以直接使用的ChatGPT中文版镜像网站，各有优劣，我会在后面备注，大家可以根据自己的需求来。
 
